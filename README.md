@@ -1,7 +1,6 @@
 # Path Finder
 
 This project implements a dynamically allocated matrix, reads this [file](data/labirinto.txt) that contains a maze and solve it, where:
-
 - 5 is the entry
 - 9 is the exit
 - 1 is a wall
