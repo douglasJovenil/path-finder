@@ -33,8 +33,6 @@ This project implements a dynamically allocated matrix, reads this [file](data/l
 
 ## 🏃 Usage
 
-Before you start the server theres some commands that you have to run, just copy and paste one by one the commands bellow:
-
 ```
 git clone https://github.com/douglasJovenil/path-finder
 cd path-finder/src
